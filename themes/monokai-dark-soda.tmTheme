@@ -668,6 +668,28 @@
                 <string>#8C8C8C</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>Template Definition</string>
+            <key>scope</key>
+            <string>punctuation.definition.template-expression, punctuation.section.embedded</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F92672</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Reset JavaScript string interpolation expression</string>
+            <key>scope</key>
+            <string>meta.template.expression</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F8F8F2</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
