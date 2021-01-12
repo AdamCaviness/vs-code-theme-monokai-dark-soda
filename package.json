@@ -2,7 +2,7 @@
 	"name": "theme-monokai-dark-soda",
 	"displayName": "Monokai Dark Soda",
 	"description": "A dark theme with bright colors",
-	"version": "0.0.6",
+	"version": "1.0.0",
 	"publisher": "AdamCaviness",
 	"repository": "https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda",
     "icon": "theme-monokai-dark-soda.png",
@@ -17,7 +17,7 @@
 			{
 				"label": "Monokai Dark Soda",
 				"uiTheme": "vs-dark",
-				"path": "./themes/monokai-dark-soda.tmTheme"
+				"path": "./themes/monokai-dark-soda-color-theme.json"
 			}
 		]
 	}
