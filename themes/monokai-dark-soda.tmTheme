@@ -690,6 +690,17 @@
                 <string>#F8F8F2</string>
             </dict>
         </dict>
+	 <dict>
+            <key>name</key>
+            <string>Highlighting colour when used in inputs</string>
+            <key>scope</key>
+            <string>input.background</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#242424</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
