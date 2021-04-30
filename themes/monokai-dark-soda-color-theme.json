@@ -3,9 +3,9 @@
 	"type": "dark",
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
-		"editor.background": "#242424",
+		"editor.background": "#000000",
 		"editor.foreground": "#f8f8f2",
-		"editor.lineHighlightBackground": "#3d3d3d",
+		"editor.lineHighlightBackground": "#000000",
 		"editor.selectionBackground": "#403d3d",
 		"editorCursor.foreground": "#f8f8f0",
 		"editorWhitespace.foreground": "#3b3a32",
