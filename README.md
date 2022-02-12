@@ -48,7 +48,7 @@ Malibu      | `#90E7F7` | `144, 231, 247`  | `189, 42%, 77%`  | ![Malibu Color](
 
 ## Contributing
 
-1. Fork it [s-code-theme-monokai-dark-soda ](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/fork)
+1. Fork it [vs-code-theme-monokai-dark-soda ](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/fork)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
