@@ -511,9 +511,10 @@
 	},
 	"tokenColors": [
 		{
-			"scope": "comment",
+			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#8C8C8C"
+				"foreground": "#8C8C8C",
+				"fontStyle": "italic",
 			}
 		},
 		{
