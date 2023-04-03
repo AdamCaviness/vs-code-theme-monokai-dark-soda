@@ -1,7 +1,7 @@
 # Monokai Dark Soda
 [![GitHub license](https://img.shields.io/github/license/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://img.shields.io/github/license/AdamCaviness/vs-code-theme-monokai-dark-soda)
 [![GitHub forks](https://img.shields.io/github/issues/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/issues)
-[![GitHub forks](	https://img.shields.io/github/forks/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/fork)
+[![GitHub forks](https://img.shields.io/github/forks/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/fork)
 [![GitHub stars](https://img.shields.io/github/stars/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/stargazers)
 
 

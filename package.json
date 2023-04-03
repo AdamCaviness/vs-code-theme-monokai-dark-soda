@@ -6,6 +6,7 @@
 	"publisher": "AdamCaviness",
 	"repository": "https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda",
     "icon": "theme-monokai-dark-soda.png",
+	"keywords": ["monokai", "dark", "soda", "theme", "vscode"],
 	"engines": {
 		"vscode": "^0.10.1"
 	},
