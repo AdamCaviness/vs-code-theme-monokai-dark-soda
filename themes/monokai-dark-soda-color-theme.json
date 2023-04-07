@@ -274,13 +274,6 @@
       }
     },
     {
-      "name": "Variable",
-      "scope": ["variable"],
-      "settings": {
-        "foreground": "#E06C75"
-      }
-    },
-    {
       "name": "Variable Interpolation",
       "scope": ["variable.interpolation"],
       "settings": {
@@ -293,6 +286,13 @@
       "settings": {
         "foreground": "#FD971F",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Variable This",
+      "scope": ["variable.language.this"],
+      "settings": {
+        "foreground": "#90E7F7"
       }
     },
     {
@@ -660,10 +660,17 @@
       }
     },
     {
-      "name": "Source CSS Property Name & Value",
-      "scope": ["source.css property-name", "source.css property-value"],
+      "name": "Support CSS Function",
+      "scope": ["support.function"],
       "settings": {
-        "foreground": "#828997"
+        "foreground": "#FFEE99"
+      }
+    },
+    {
+      "name": "Source CSS Property Name & Value",
+      "scope": ["source.css property-name", "support.type.property-name.css", "source.css property-value"],
+      "settings": {
+        "foreground": "#66D9EF"
       }
     },
     {
@@ -1030,14 +1037,14 @@
       "name": "JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#66D9EF"
       }
     },
     {
       "name": "JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#66D9EF"
       }
     },
     {
@@ -1069,7 +1076,7 @@
         "variable.other.readwrite.tsx"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -1318,7 +1325,7 @@
         "variable.other.readwrite.alias.tsx"
       ],
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -1330,7 +1337,7 @@
         "variable.other.constant.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -1389,7 +1396,7 @@
         "meta.definition.property.tsx variable"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -1401,7 +1408,7 @@
         "meta.type.parameters.tsx support.type"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#66D9EF"
       }
     },
     {
@@ -1523,7 +1530,7 @@
       "name": "JS/TS Variable Other Object",
       "scope": ["variable.other.object.js", "variable.other.object.ts"],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -1797,13 +1804,6 @@
       "scope": "punctuation.definition.variable.shell",
       "settings": {
         "foreground": "#E06C75"
-      }
-    },
-    {
-      "name": "CSS Support Constant Value",
-      "scope": "support.constant.property-value.css",
-      "settings": {
-        "foreground": "#ABB2BF"
       }
     },
     {
